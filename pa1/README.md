@@ -1,0 +1,1 @@
+View and perspective of triangle with function of rotation.
