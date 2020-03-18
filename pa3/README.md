@@ -1,0 +1,1 @@
+Blinn-Phone model, texture mapping, bump mapping and displacement mapping.
