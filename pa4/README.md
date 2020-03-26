@@ -1,0 +1,1 @@
+This part is to draw a Bazier curve in two ways(using interation and algebraic defination).
